@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Cheese Burger",
+    "price": 149,
+    "image": "assites/burger.png"
+  },
+  {
+    "id": 2,
+    "name": "Cheese Pizza",
+    "price": 249,
+    "image": "assites/pizza.png"
+  },
+  {
+    "id": 3,
+    "name": "Chicken Biryani",
+    "price": 199,
+    "image": "indianassit/08_biryani.png"
+  },
+  {
+    "id": 4,
+    "name": "White Sauce Pasta",
+    "price": 179,
+    "image": "indianassit/whie aouce psta  3434134.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Veg Sandwich",
+    "price": 99,
+    "image": "assites/sandwich.png"
+  },
+  {
+    "id": 6,
+    "name": "Paneer",
+    "price": 149,
+    "image": "indianassit/06_paneer.png"
+  },
+  {
+    "id": 7,
+    "name": "Chole Bhature",
+    "price": 149,
+    "image": "indianassit/07_chole_bhature.png"
+  },
+  {
+    "id": 8,
+    "name": "Masala Dosa",
+    "price": 149,
+    "image": "indianassit/09_dosa.png"
+  },
+  {
+    "id": 9,
+    "name": "Special Thali",
+    "price": 149,
+    "image": "indianassit/10_thali.png"
+  }
+]
